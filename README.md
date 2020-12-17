@@ -96,4 +96,4 @@ After cloning, update the submodules
 [CodeNarc](https://codenarc.github.io/CodeNarc/) is used to ensure quality in groovy code.  The configuration file is located [here.](config/code-quality-config/codenarc/codenarc.xml)  To execute run ```gradle check```, and an output [report](build/reports/codenarc/main.html) will be generated. 
 
 ## Changes
-We're goinfg to test the pipeline in Github Actions
+We're going to test the pipeline in Github Actions
